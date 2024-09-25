@@ -5,10 +5,10 @@
             <thead>
                 <tr>
                     <th>#</th>
-                    <th>Product</th>
-                    <th>Quantity</th>
-                    <th>Price</th>
-                    <th>Total</th>
+                    <th>Наименование</th>
+                    <th>Количество</th>
+                    <th>Стоимость</th>
+                    <th>Общая стоимость</th>
                 </tr>
             </thead>
             <tbody>
